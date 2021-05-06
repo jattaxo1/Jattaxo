@@ -1,2 +1,0 @@
-# Jattaxo
-elk project
